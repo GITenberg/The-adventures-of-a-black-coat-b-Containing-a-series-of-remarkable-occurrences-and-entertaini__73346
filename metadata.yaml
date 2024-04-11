@@ -1,0 +1,34 @@
+_repo: The-adventures-of-a-black-coat-b-Containing-a-series-of-remarkable-occurrences-and-entertaini__73346
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anonymous
+    aliases:
+    - Anonyme
+    - Anonymous, Anonymous
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Anonymous_work
+    - http://www.gutenberg.org/ebooks/author/49
+description: ''
+gutenberg_issued: '2024-04-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73346'
+language: en
+pgterms:marc905: 20230826092731author
+pgterms:marc906: '1762'
+pgterms:marc907: IE
+production_note: Brian Wilsden and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from scanned images of public domain material from the Google
+  Books project.)
+publication_note: '  $aDublin :$bRobert Bell, $c1762.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The adventures of a black coat : $b Containing a series of remarkable occurrences
+  and entertaining incidents'
+url: http://www.gutenberg.org/ebooks/73346
